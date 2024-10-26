@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PSQL="psql -U <user> -d <db> -t --no-align -c"
+PSQL="psql -U <user> -d business -t --no-align -c"
 
 CUSTOMER_NAME=
 CUSTOMER_PHONE=
